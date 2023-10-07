@@ -152,7 +152,6 @@ While 1
 
 		Case $MenuItem6
 
-			MsgBox(32+262144,'About','Developed:Trần Phạm Duy Minh | Thử nghiệm đến hết năm:' & @YEAR)
 
 		Case $MenuItem7
 
